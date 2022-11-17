@@ -9,8 +9,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.Import the needed packages
+
 2.Assigning hours To X and Scores to Y
+
 3.Plot the scatter plot
+
 4.Use mse,rmse,mae formmula to find
 
 ## Program:
@@ -70,6 +73,7 @@ print('RMSE = ',rmse)
 
 
 ## Output:
+
 ![193458177-655b6c90-ddb6-43ce-b9af-dd11ca45c20a](https://user-images.githubusercontent.com/94169318/193607735-68f645dc-8340-49c2-b22e-74e104856d1a.png)
 
 ![193458190-589570af-b80c-4577-a0e4-84ba844e85f8](https://user-images.githubusercontent.com/94169318/193607779-61905f2d-ed8c-4ba5-b105-f096c9f1f616.png)

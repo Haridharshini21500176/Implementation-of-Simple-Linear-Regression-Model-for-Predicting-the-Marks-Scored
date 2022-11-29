@@ -73,6 +73,11 @@ print('RMSE = ',rmse)
 
 
 ## Output:
+![mx1](https://user-images.githubusercontent.com/94168395/204467046-1e1bf69b-244d-469c-ae85-18c7fd8d1dd7.png)
+
+![30a](https://user-images.githubusercontent.com/94168395/204467126-a00d6531-f4d7-432a-b690-fe2ac805d55d.png)
+
+![30b](https://user-images.githubusercontent.com/94168395/204467148-f02b2a81-3068-4db4-be85-d8022c7de51f.png)
 
 ![193458177-655b6c90-ddb6-43ce-b9af-dd11ca45c20a](https://user-images.githubusercontent.com/94169318/193607735-68f645dc-8340-49c2-b22e-74e104856d1a.png)
 

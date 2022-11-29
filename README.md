@@ -25,6 +25,7 @@ RegisterNumber: 212221230033
 */
 ```
 ```
+
 #import files
 import numpy as np
 import pandas as pd
@@ -86,6 +87,10 @@ print('RMSE = ',rmse)
 ![193458190-589570af-b80c-4577-a0e4-84ba844e85f8](https://user-images.githubusercontent.com/94169318/193608043-0a8987a5-d757-4099-9410-0bc854bd54fa.png)
 
 ![193458198-ed30b519-f24d-4ca8-ae33-5374ced8a49f](https://user-images.githubusercontent.com/94169318/193608117-0ea88216-e9e4-41e8-bc79-a6ff1470491d.png)
+
+![204101850-736e9c41-d29c-49d8-a7c1-da65ab29905a](https://user-images.githubusercontent.com/94168395/204488982-f3f98580-0281-4d33-a28f-7246b5439838.jpg)
+
+![204101843-3782c792-a6a5-457a-8f22-c23827a7c79d](https://user-images.githubusercontent.com/94168395/204488842-1962afba-791e-4916-a2b6-d26032f78427.jpg)
 
 ![193458202-cfa670e3-f16a-4a11-920d-c832f943f069](https://user-images.githubusercontent.com/94169318/193608163-e9e7f42d-8ceb-4428-8081-e577100a660d.png)
 
